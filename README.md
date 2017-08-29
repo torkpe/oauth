@@ -18,5 +18,5 @@ variables set to the appropriate credentials.
 
 
 
-Open a web browser and navigate to [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
+Open a web browser and navigate to [http://127.0.0.1:8080/auth/google](http://127.0.0.1:8080/auth/google)
 to see the example in action.
